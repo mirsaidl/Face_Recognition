@@ -1,6 +1,7 @@
 # Face Recognition
 
 ### Results
+##### For video go to the outputs/face_recog_roomates.mp4
 ![alt text](<outputs/mirsaid.png>)
 
 <video width="640" height="360" controls>
