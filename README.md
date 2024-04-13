@@ -1,6 +1,12 @@
 # Face Recognition
 
-Face Recognition with OpenCV and face_recognition
+### Results
+![alt text](<outputs/mirsaid.png>)
+<video controls src="outputs/face_recog_roommates.mp4" title="FaceRecognition"></video>
+
+
+### **Face Recognition with OpenCV and face_recognition**
+
 Overview:
 This project implements face recognition using OpenCV and the face_recognition library. It detects faces in a webcam feed, matches them against a set of known faces, and annotates the video feed with the names of the recognized individuals in real-time. The annotated video is then saved as output.avi.
 
