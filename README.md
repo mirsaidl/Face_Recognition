@@ -2,8 +2,11 @@
 
 ### Results
 ![alt text](<outputs/mirsaid.png>)
-<video controls src="outputs/face_recog_roommates.mp4" title="FaceRecognition"></video>
 
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/mirsaidl/Face_Recognition/outputs/main/assets/face_recognition_roommates.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### **Face Recognition with OpenCV and face_recognition**
 
